@@ -40,9 +40,8 @@ see [github.com/OgenticAI/ogentic-shield](https://github.com/OgenticAI/ogentic-s
 
 ## Try it
 
-**Hosted (no install):** click the HuggingFace Spaces tile at
-[huggingface.co/spaces/sotto/shield-demo](https://huggingface.co/spaces/sotto/shield-demo)
-(replace with the actual URL once David deploys).
+**Hosted (no install):** [**ogenticai-shield-demo.hf.space**](https://ogenticai-shield-demo.hf.space)
+— or open the [HuggingFace Spaces tile](https://huggingface.co/spaces/ogenticai/shield-demo).
 
 **Locally** (preferred for the full pipeline, including Layer 3):
 
