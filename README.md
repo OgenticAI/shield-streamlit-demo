@@ -3,12 +3,18 @@ title: Ogentic-Shield Demo
 emoji: 🛡️
 colorFrom: green
 colorTo: blue
-sdk: streamlit
-sdk_version: "1.39.0"
-app_file: app.py
+sdk: docker
+app_port: 8501
 pinned: false
 license: apache-2.0
 ---
+
+<!--
+HF Spaces' create-API removed `streamlit` as an SDK option in 2026 — only
+gradio/docker/static are accepted. This Space runs Streamlit inside a Docker
+container; the app, samples, and behavior are identical to a native Streamlit
+Space. See Dockerfile.
+-->
 
 # ogentic-shield — drag-and-drop redaction demo
 
