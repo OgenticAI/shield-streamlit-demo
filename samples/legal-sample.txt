@@ -1,0 +1,31 @@
+PRIVILEGED & CONFIDENTIAL — ATTORNEY-CLIENT COMMUNICATION
+Prepared in anticipation of litigation. Attorney work product.
+
+MEMORANDUM
+To:       Alex Synthetic, General Counsel, Synthetic Corp
+From:     Jordan Fictitious, Esq. (Bar No. 999-FAKE), Outside Counsel
+Re:       Case No. 26-CV-9999 — Synthetic Corp v. Imaginary Holdings LLC
+Date:     June 17, 2026
+
+This memo summarizes our preliminary assessment of the trade secret
+misappropriation claim against Imaginary Holdings LLC. The matter is
+currently in discovery before Judge Pretend-Smith in the S.D.N.Y.
+
+1. Background. Our client, Synthetic Corp, alleges that two former
+   engineers (Pat Madeup and Sam Notreal) downloaded the "Project Mirage"
+   schematics on March 14, 2026, the same day they accepted offers from
+   Imaginary Holdings. Bates range SYN_00001-SYN_04217 has been produced
+   under the protective order entered May 2, 2026.
+
+2. Settlement posture. Opposing counsel has signaled willingness to
+   discuss settlement in the $4.2M-$6.8M range. Per your authorization,
+   we will not respond until after the June 24 deposition of John Faux,
+   their CTO. Do not share these numbers outside the engagement team.
+
+3. Litigation hold. The hold notice issued April 9, 2026 remains in
+   effect for all custodians listed on Exhibit B. Please confirm that
+   the IT preservation actions for Jamie Hypothetical (CFO) are complete.
+
+This memorandum is protected by attorney-client privilege and the
+work-product doctrine. Do not forward or summarize via any external AI
+tool — doing so may waive privilege under US v. Heppner (S.D.N.Y. 2026).

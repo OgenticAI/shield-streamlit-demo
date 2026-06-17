@@ -1,0 +1,34 @@
+CLINICAL PROGRESS NOTE — PSYCHOTHERAPY (SOAP FORMAT)
+THIS IS A SYNTHETIC RECORD — ALL IDENTIFIERS ARE FICTITIOUS.
+
+Patient:       Robin Example
+MRN:           99999-99
+DOB:           02/29/1988 (synthetic)
+Insurance:     PretendCare PPO, Member ID PC-000-00-0000
+Provider:      Dr. Casey Imaginary, LCSW (NPI 9999999999)
+Encounter:     06/17/2026, 50-minute psychotherapy session (CPT 90834)
+
+S — Subjective:
+Patient reports continued depressed mood since last session. Endorses
+passive suicidal ideation without intent or plan ("sometimes I wonder if
+it would be easier to just not wake up"). Sleep onset latency >2hrs,
+broken sleep, early waking around 04:30. Compliance with sertraline 100mg
+QD is good per self-report; denies recent alcohol use. Reports ongoing
+conflict with partner (Jamie Notreal) about household finances.
+
+O — Objective:
+Patient presented well-groomed, affect constricted, mood "low — maybe 3
+out of 10." Oriented x3. No psychomotor agitation. PHQ-9 administered:
+score 17 (moderately severe). C-SSRS: lifetime SI yes, past-month yes,
+no intent, no plan, no preparatory behavior.
+
+A — Assessment:
+F33.1 Major Depressive Disorder, recurrent, moderate. Risk: low-moderate
+(passive SI, no plan, strong protective factors — children at home,
+treatment engagement). PTSD features (F43.10) re: 2024 MVA persist;
+revisiting EMDR phase 2 next session.
+
+P — Plan:
+Continue sertraline 100mg QD; refer to Dr. Pat Hypothetical, MD for med
+review on 06/24/2026. Weekly therapy. Safety plan reviewed in session;
+crisis line 988 reinforced. Next appointment 06/24/2026.
